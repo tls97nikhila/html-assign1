@@ -1,0 +1,15 @@
+
+div{
+     margin: auto;
+    width:500px;
+
+}
+#box{
+    border: blue; border-width: 3px;
+border-style: solid;
+padding:10px;
+
+    background-color: yellow;
+align-content: center;
+
+}
